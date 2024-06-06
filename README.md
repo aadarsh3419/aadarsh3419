@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zivo.in%2Fwebsite-development-company&psig=AOvVaw3eoH-x39SQhlN9FSx-ai3l&ust=1717731467180000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjJrdHAhsaGAxUwTmwGHaNsAk0QjRx6BAgAEBQ)]
+[![MasterHead](https://images.app.goo.gl/3jVcbMwF189Lb2L87)] 
 <h1 align="center">Hi 👋, I'm AADARSH TIWARI</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
