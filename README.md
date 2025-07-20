@@ -1,81 +1,70 @@
-<h1 align="center">Hi 👋, I'm Aadarsh Tiwari</h1>
+[![MasterHead](https://raw.githubusercontent.com/Ayan-thecodeking/Animated-banner/main/Data%20Science%20Animated.gif)] 
+<h1 align="center">Hi 👋, I'm AADARSH TIWARI</h1>
+<h3 align="center">An aspiring Data Scientist | Future AI Engineer from India</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Data+Scientist+%F0%9F%93%88;Future+AI+Engineer+%F0%9F%A4%AB;Python+%7C+SQL+%7C+Statistics+%7C+ML;Lifelong+Learner+%F0%9F%92%AA" alt="Typing animation" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ayan-thecodeking/Animated-banner/main/Data%20Science%20Animated.gif" width="100%" alt="Data Science Banner" />
-</p>
-
----
-
-### 👨‍💻 About Me:
-- 🧠 **Aspiring Data Scientist** | AI-Engineer in progress  
-- 📊 Learning and applying **Statistics, Probability, Python, SQL, Machine Learning**  
-- 💻 Currently building a **Health Tracking System** using Python + SQL + Stats  
-- 🛠️ Solving real-world problems through hands-on projects  
-- 🌱 Dedicated to learning something new every single day  
-
----
-
-### 🛠️ Tech Stack:
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Statistics-EF4E7B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Probability-6A5ACD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=aadarsh3419&label=Profile%20views&color=0e75b6&style=flat" alt="aadarsh3419" />
+</p>
+
+- 🔭 I’m currently working on a **Health Tracking System using Python & SQL**
+- 🌱 Currently learning **Statistics | Probability | Python | SQL | Machine Learning**
+- 📊 Exploring real-world datasets and building analytical dashboards
+- 💬 Ask me about **Python for Data Analysis & SQL Projects**
+- 📫 Reach me at: **aadarshtiwari112@gmail.com**
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://twitter.com/aadarsh_tiwari_" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="twitter" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/aadarsh-tiwari-a46153254" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
+  <a href="https://instagram.com/aadarsh_tiwari_/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="instagram" height="30" width="30" /></a>
 </p>
 
 ---
 
-### 📂 Featured Projects:
-
-- 💡 **Health Tracker System**  
-  → An app that takes daily health inputs, stores them in SQL, and gives personalized insights using Python + Statistics.
-
-- 📊 **Statistics from Scratch**  
-  → A deep-dive notebook covering core statistics concepts with real-life use cases and Python examples.
-
-- 🧮 **SQL Practice Hub**  
-  → Real-world SQL challenges using the Walmart dataset (joins, partitions, CTEs, window functions, etc.)
-
-👉 *More Projects Coming Soon...*
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
-### 📈 GitHub Stats:
-
+<h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadarsh3419&show_icons=true&theme=radical&count_private=true" width="47%" />
-  <img src="https://streak-stats.demolab.com?user=aadarsh3419&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aadarsh3419&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=aadarsh3419&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aadarsh3419&theme=radical&margin-w=10&no-frame=true" />
-</p>
+<h3 align="left">Top Languages:</h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadarsh3419&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aadarsh3419" /></p>
 
 ---
 
-### 📫 Connect with Me:
+<h3 align="left">Quote 💬</h3>
 
-- 📧 Email: **aadarshtiwari112@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/aadarsh-tiwari](https://www.linkedin.com/in/aadarsh-tiwari)
-
----
-
-### 🧠 Vision:
-
-> _“Learning is my daily routine. I don't chase success — I build the skills that attract it.”_  
-> — *Aadarsh Tiwari*
-
----
-
-**💥 Let’s Build Something Legendary Together!**
+> "I don't just learn — I apply, experiment, and build.  
+> Success follows consistency, and I'm here daily."  
+> — Aadarsh Tiwari
