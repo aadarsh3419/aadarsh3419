@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aadarsh Tiwari</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Scientist;Future+AI+Engineer;Lifelong+Learner&center=true&width=500&height=30&color=0FF760&pause=1000" alt="Typing SVG" />
+  <img src="https://i.imgur.com/ZUxbQRa.jpg" width="100%" alt="banner">
+
 </p>
 
 <p align="center">
