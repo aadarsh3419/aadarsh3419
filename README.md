@@ -1,42 +1,58 @@
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aadarsh3419/aadarsh3419/main/A_digital_banner_image_for_Aadarsh_Tiwari_features.png" alt="Aadarsh Tiwari - Data Science Journey" width="100%" />
+<h1 align="center">Hi 👋, I'm Aadarsh Tiwari</h1>
+<h3 align="center">🚀 Aspiring Data Scientist | Python • SQL • Statistics • ML Enthusiast</h3>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Data Science Animation">
+</div>
+
+---
+
+### 👨‍💻 About Me:
+
+- 🎯 Currently mastering **Data Science** with focus on:
+  - Python 🐍 | SQL 🧠 | Statistics 📊 | Probability 🌌
+- 📚 Building real-world **projects** that combine:
+  - 📅 Health Tracking | 🤖 AI | 📈 Insights using Stats & Python
+- 🌱 Learning daily, experimenting with **data, logic, and storytelling**
+- 💡 Mission: To transform raw data into real-world impact
+
+---
+
+### 🧰 Technologies & Tools I Use:
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Statistics-323330?style=for-the-badge&logo=statistics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VsCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
 
-# 👨🏻‍💻 Aadarsh Tiwari  
-### 🌟 Aspiring Data Scientist | SQL • Python • Statistics • Probability • ML in Progress
+### 🔭 Current Project:
 
-Hello! I'm Aadarsh — a dedicated learner, building my journey step-by-step into the world of **Data Science**.
-
-🔍 Currently exploring:
-- 📊 **Statistics** from scratch to advanced (with real-world examples)
-- 🐍 **Python** for data wrangling, functions, file handling, and more
-- 🧠 **Probability & Hypothesis Testing**
-- 📁 **SQL** for handling real datasets and custom queries
-- 🛠️ Personal Project: **Health Tracker App** using Python + SQL + Statistics
+💡 **Health + AI Dashboard**  
+> Helping users track daily routines & receive personalized insights using Python, SQL, and Statistics.
 
 ---
 
-### 🧩 Skills I'm Building:
-- Programming: `Python`, `SQL`
-- Statistics: Descriptive, Inferential, Z-Test, T-Test, Confidence Intervals
-- Tools: `Jupyter`, `VS Code`, `GitHub`
-- Daily Learning Flow: Structured 10AM–4PM deep work blocks, revising nightly
+### 📫 Connect With Me:
+
+<p>
+  <a href="https://www.linkedin.com/in/aadarsh3419" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:aadarshtiwari112@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 💡 Project Spotlight:
-> **🧠 Daily Health Tracker AI System**
-> - Interactive health calendar (click + chatbot)
-> - Tracks food, exercise, sleep via SQL
-> - Uses bell curve logic + stats to suggest improvements
-> - Built with: Python • MySQL • Statistics • Probability
+### 📈 GitHub Stats:
 
----
-
-### 🌱 Currently Learning:
-```python
-for topic in ["Machine Learning", "Data Visualization", "Pandas", "Probability Trees"]:
-    print("Studying:", topic)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aadarsh3419&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aadarsh3419&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
+</p>
