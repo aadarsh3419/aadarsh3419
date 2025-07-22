@@ -18,7 +18,6 @@
 
 ---
 
-### 🧰 Technologies & Tools I Use:
 
 ### 🧰 Technologies & Tools I Use:
 
